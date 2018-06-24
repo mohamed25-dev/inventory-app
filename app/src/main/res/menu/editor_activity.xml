@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:title="save"
+        android:id="@+id/save"
+        android:icon="@drawable/baseline_shopping_cart_black_18"
+        app:showAsAction="ifRoom|withText"/>
+    <item
+        android:title="delete"
+        android:id="@+id/delete"
+        app:showAsAction="ifRoom"/>
+</menu>

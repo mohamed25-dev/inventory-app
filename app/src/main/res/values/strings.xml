@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Inventory</string>
+    <string name="insertion_failed">Insertion Failed !!</string>
+    <string name="insertion_succeeded">Insertion Succeeded</string>
+    <string name="delete_failed">Deletion Failed</string>
+    <string name="delete_succeeded">Deletion Succeeded</string>
+    <string name="update_failed">Update Failed</string>
+    <string name="update_succeeded">Update Succeeded</string>
+    <string name="name_label">Product Name</string>
+    <string name="name_hint">The Product Name</string>
+    <string name="supplier_label">Product Supplier</string>
+    <string name="supplier_hint"> The Product Supplier</string>
+    <string name="price_label">Product Price</string>
+    <string name="price_hint">The Product Price</string>
+    <string name="quantity_label">Product Quantity</string>
+    <string name="quantity_hint">The Product Quantity </string>
+    <string name="sell_button">SELL</string>
+
+</resources>
